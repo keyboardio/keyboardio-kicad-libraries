@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TEST_POINT
+D general power-flag symbol
+K Power Flag Symbol
+F ~
+$ENDCMP
+#
+#End Doc Library
