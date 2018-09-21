@@ -1,8 +1,0 @@
-(module null-component (layer F.Cu) (tedit 56159ACC)
-  (fp_text reference LEDR0C1 (at 0 -4.75) (layer F.SilkS) hide
-    (effects (font (size 1 1) (thickness 0.2)))
-  )
-  (fp_text value WS2812B (at 0 4.85) (layer F.SilkS) hide
-    (effects (font (size 1 1) (thickness 0.2)))
-  )
-)
