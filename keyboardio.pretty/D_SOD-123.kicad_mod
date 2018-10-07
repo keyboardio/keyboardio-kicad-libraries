@@ -1,4 +1,4 @@
-(module D_SOD-123 (layer F.Cu) (tedit 5B1464F9)
+(module D_SOD-123 (layer F.Cu) (tedit 5BB575F3)
   (descr SOD-123)
   (tags SOD-123)
   (attr smd)
@@ -34,7 +34,7 @@
   )
   (pad 1 smd rect (at -1.65 0) (size 0.9 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.65 0) (size 0.9 1.2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
+  (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
