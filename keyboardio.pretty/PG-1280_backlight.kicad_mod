@@ -1,4 +1,4 @@
-(module PG-1280_backlight (layer F.Cu) (tedit 5BB3C476)
+(module PG-1280_backlight (layer F.Cu) (tedit 5BBEDC50)
   (tags "LED NeoPixel")
   (attr smd)
   (fp_text reference LED71 (at 0 2.4) (layer B.SilkS)
@@ -39,4 +39,9 @@
   (pad 3 smd rect (at 2.3 -0.75) (size 1.3 1) (layers B.Cu B.Adhes B.Paste B.Mask))
   (pad 2 smd rect (at -2.3 0.75) (size 1.3 1) (layers B.Cu B.Paste B.Mask))
   (pad 1 smd rect (at -2.3 -0.75) (size 1.3 1) (layers B.Cu B.Paste B.Mask))
+  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_2010_5025Metric_Castellated.step
+    (offset (xyz 0 0 -2.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
