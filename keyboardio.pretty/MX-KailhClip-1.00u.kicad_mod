@@ -1,4 +1,4 @@
-(module MX-KailhClip-1.00u locked (layer F.Cu) (tedit 5BBF89EE)
+(module MX-KailhClip-1.00u locked (layer F.Cu) (tedit 5BCA3B65)
   (descr MX_PCB)
   (tags MX_PCB)
   (fp_text reference SW1 (at -0.13 -8.1) (layer F.SilkS)
@@ -60,5 +60,10 @@
     (offset (xyz 0 0 -13.29))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))
+  )
+  (model :LOCAL_3d:KaihlSocket_1511-CONN-170206_ASM_ASM_3_ASM__ASM.STEP
+    (offset (xyz 6.1 6.75 1.1))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 -90 -90))
   )
 )

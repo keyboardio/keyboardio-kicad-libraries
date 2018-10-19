@@ -45,4 +45,22 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+ (model :LOCAL_3d:grabcad.com-kevin.yu-7/mx.step
+    (offset (xyz -7.3 7.4 -7.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
+  (model :LOCAL_3d:github.com-ConstantinoSchillebeeckx-cherry-mx-keycaps/1x1.75R4.step
+    (offset (xyz 0 0 -13.29))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
+
+  (model :LOCAL_3d:KaihlSocket_1511-CONN-170206_ASM_ASM_3_ASM__ASM.STEP
+    (offset (xyz 6.1 6.75 1.1))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 -90 -90))
+  )
+
+
 )
