@@ -1,0 +1,11 @@
+(module VIA_MATRIX (layer F.Cu) (tedit 5AD88299)
+  (attr virtual)
+  (fp_text reference V42_32 (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 0 0) (thickness 0.15)))
+  )
+  (fp_text value AUTO_VIA (at 0 0) (layer F.Fab) hide
+    (effects (font (size 0 0) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 0.35 0.35) (drill 0.3) (layers *.Cu)
+    (clearance 0.2) (zone_connect 2))
+)

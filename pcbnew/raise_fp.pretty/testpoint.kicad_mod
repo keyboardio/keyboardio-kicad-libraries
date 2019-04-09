@@ -1,0 +1,9 @@
+(module fp:testpoint (layer F.Cu) (tedit 5AD8977A)
+  (fp_text reference TP13 (at 0 1.27) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value TEST (at 0 -1.27) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd circle (at 0 0) (size 0.8 0.8) (layers F.Cu F.Paste F.Mask))
+)
