@@ -1,4 +1,4 @@
-(module MX-KailhClip-1.00u-large-pads locked (layer F.Cu) (tedit 5C7F6DE4)
+(module MX-KailhClip-1.00u-large-pads locked (layer F.Cu) (tedit 5CAD5EF8)
   (descr MX_PCB)
   (tags MX_PCB)
   (fp_text reference SW1 (at -0.13 -8.1) (layer F.SilkS)
@@ -61,7 +61,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))
   )
-  (model :LOCAL_3d:KaihlSocket_1511-CONN-170206_ASM_ASM_3_ASM__ASM.STEP
+  (model :LOCAL_3d:keyboardio/KaihlSocket_1511-CONN-170206_ASM_ASM_3_ASM__ASM.STEP
     (offset (xyz 6.1 6.75 1.1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -90 -90))
