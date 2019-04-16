@@ -56,7 +56,7 @@
     (rotate (xyz 90 0 0))
   )
 
-  (model :LOCAL_3d:KaihlSocket_1511-CONN-170206_ASM_ASM_3_ASM__ASM.STEP
+  (model :LOCAL_3d:keyboardio/KaihlSocket_1511-CONN-170206_ASM_ASM_3_ASM__ASM.STEP
     (offset (xyz 6.1 6.75 1.1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -90 -90))
