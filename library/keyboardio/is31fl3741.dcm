@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP IS31FL3743B
+D 18×11 DOTS MATRIX LED DRIVER WITH 12MHZ SPI
+F http://www.issi.com/WW/pdf/31FL3743B.pdf
+$ENDCMP
+#
 #End Doc Library
