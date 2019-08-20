@@ -2,7 +2,7 @@
   (descr SOD-123)
   (tags SOD-123)
   (attr smd)
-  (fp_text reference D93 (at 0 -2) (layer F.SilkS)
+  (fp_text reference %R (at 0 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value DIODE (at 0 2.1) (layer F.Fab)
