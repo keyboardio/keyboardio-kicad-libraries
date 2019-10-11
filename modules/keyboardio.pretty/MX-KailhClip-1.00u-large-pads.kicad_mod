@@ -1,4 +1,4 @@
-(module MX-KailhClip-1.00u-large-pads locked (layer F.Cu) (tedit 5D9F9F10)
+(module MX-KailhClip-1.00u-large-pads locked (layer F.Cu) (tedit 5DA0F4CB)
   (descr MX_PCB)
   (tags MX_PCB)
   (fp_text reference SW1 (at -0.13 -8.1) (layer F.SilkS)
@@ -67,7 +67,7 @@
   (pad "" np_thru_hole circle (at 5.08 0) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask))
   (model :LOCAL_3d:keyboardio/mx_style_switch.stp
-    (offset (xyz 0 0 -8.6))
+    (offset (xyz 0 0 -8.65))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))
   )
