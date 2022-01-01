@@ -1,6 +1,6 @@
-(footprint "MX-KailhClip-1.00u-no-top-ring" (version 20211014) (generator pcbnew)
+(footprint "MX-KailhClip-1.25u-no-top-ring" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61CFB778)
+  (tedit 61CFB79F)
   (descr "MX_PCB")
   (tags "MX_PCB")
   (attr smd)
@@ -73,7 +73,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))
   )
-  (model ":LOCAL_3d:keyboardio/dsa/1U.stp"
+  (model ":LOCAL_3d:keyboardio/dsa/1.25U.stp"
     (offset (xyz 0 0 -13.3))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
